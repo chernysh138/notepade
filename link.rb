@@ -8,6 +8,8 @@ class Link < Post
   def read_from_console
   end
 
+  # Этот метод будет возвращать массив из трех строк: адрес ссылки, описание
+  # и дата создания
   def to_strings
   end
 end
