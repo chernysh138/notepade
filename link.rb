@@ -4,6 +4,7 @@ class Link < Post
     @url = ""
   end
 
+  # Этот метод пока пустой, он будет спрашивать 2 строки — адрес ссылки и описание
   def read_from_console
   end
 
